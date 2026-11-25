@@ -66,7 +66,7 @@
 
 Acquis provides verified EU law content inside AI assistants, offering real-time answers to legal questions with citations to official EU regulations. The platform supports the AI Act, Cyber Resilience Act, GDPR and other regulations, delivering verbatim provisions, cryptographic verification, and plain‑language explanations. Users can trial the service for free, then choose Basic or Pro plans for ongoing access.
 
-**Areas:** Company · AI · LegalTech · EU Law · SaaS
+**Areas:** Company · Artificial Intelligence · Legal Tech · EU Law · Software-as-a-Service
 
 ## Acquis on APIs.io
 
@@ -84,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Acquislaw Com Domain Security](https://apis.io/security/acquislaw-com/acquislaw-com-domain-security/)
+- [Acquis Domain Security](https://apis.io/security/acquislaw-com/acquislaw-com-domain-security/)
 
 ## Where to find this API
 
@@ -97,7 +97,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 13.6** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 14.5** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -106,16 +106,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 16.0 |
-| Access clarity | 21.1 |
+| Access clarity | 29.8 |
 
-**Agent readiness 25.1** — agent-aware
+**Agent readiness 21.5** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -133,8 +133,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/acquislaw-com/](https://apis.io/providers/acquislaw-com/).
 
